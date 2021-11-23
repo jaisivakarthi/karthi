@@ -1,1 +1,1 @@
-# Simple Linear regression demo 
+# Simple Linear regression sample demo 
